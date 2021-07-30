@@ -14,3 +14,7 @@ All tasks that are performed on the Dataset are.
 - Dropping duplicate rows.
 - Filling empty rows and columns.
 - Normalizing columns.
+
+## Conclusion
+
+The Leafly dataset is cleaned from all the problems thar are present. Now we can upload this data in the SQL database and further connected to Power BI to generate reports over this.
